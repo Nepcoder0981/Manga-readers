@@ -9,6 +9,10 @@ MangaReader is a modern, open-source manga reading platform designed for a seaml
 - **Fast and Responsive**: Optimized for speed and works beautifully on any device.
 - **Cloud Native**: Professionally hosted on **Cloudflare Pages** for high availability and performance.
 
+## Content Disclaimer
+
+MangaReader is a platform that serves manga content already available on the internet. **We do not host any manga content on our servers.** All images and pages are retrieved from third-party sources. If you are a copyright owner and believe your content is being used inappropriately, please contact the respective source providers.
+
 ## Hosting
 
 This project is hosted exclusively on [Cloudflare Pages](https://pages.dev/).
