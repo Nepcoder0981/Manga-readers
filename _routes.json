@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "include": ["/*"],
+  "exclude": ["/api/*", "/image-proxy/*"],
+  "routes": [
+    {
+      "pattern": "/api/:path*",
+      "destination": "https://manga-api.techzone.workers.dev/:path*"
+    },
+    {
+      "pattern": "/image-proxy/:path*",
+      "destination": "https://mangaimageproxy.techzone.workers.dev/:path*"
+    }
+  ]
+}

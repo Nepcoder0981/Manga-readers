@@ -1,0 +1,2 @@
+/api/*  https://manga-api.techzone.workers.dev/:splat  200
+/image-proxy/*  https://mangaimageproxy.techzone.workers.dev/:splat  200
