@@ -50,6 +50,4 @@ To run the project locally:
 
 As an open-source project, contributions are welcome! Feel free to open issues or submit pull requests to help improve MangaReader.
 
-## License
 
-[MIT License](LICENSE)
